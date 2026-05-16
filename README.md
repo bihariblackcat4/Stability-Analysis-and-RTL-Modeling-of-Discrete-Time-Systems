@@ -1,7 +1,7 @@
 # Stability Analysis and RTL Modeling of Discrete-Time Systems
 
 ## Author
-* **Anushree Chandra** (EC24B1119)
+* **Anushree Chandra** 
 
 ---
 
