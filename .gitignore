@@ -1,0 +1,18 @@
+# MATLAB temporary and log files
+*.asv
+*.slx.autosave
+*.mat
+*.mex*
+log/
+SlData/
+
+# Verilog / FPGA Simulation logs & artifacts
+*.log
+*.jou
+*.vcd
+*.wdb
+xsim.dir/
+work/
+transcript
+vsim.wlf
+.Xil/
